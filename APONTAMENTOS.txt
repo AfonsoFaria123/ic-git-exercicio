@@ -1,5 +1,0 @@
-O que aprendi nesta aula:
-
-Aprendi a criar um repositório Git.
-Aprendi a fazer commits.
-Aprendi a enviar alterações para o GitHub.
