@@ -1,4 +1,5 @@
-# Projeto de Introdução à Computação - Versão B
+# Projeto de Introdução à Computação - Versão A
+
 
 Este repositório foi criado para realizar os exercícios de Git e GitHub da disciplina de Introdução à Computação.
 
